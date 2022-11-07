@@ -1,2 +1,2 @@
 # demoBlog
-Django blog
+Django blog!
